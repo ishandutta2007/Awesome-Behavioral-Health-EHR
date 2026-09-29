@@ -54,9 +54,9 @@ The following platforms offer specialized clinical documentation, scheduling, bi
 
 ## 💻 Open-Source EHR & EMR GitHub Projects
 
-Open-source EHR systems empower clinics, researchers, solo practitioners, and software engineers to deploy self-hosted, vendor-independent medical and therapy record systems. *Sorted by GitHub Star count (descending).*
+Open-source EHR systems empower clinics, researchers, solo practitioners, and software engineers to deploy self-hosted, vendor-independent medical and therapy record systems. *Sorted by GitHub Stars_Count (descending).*
 
-| Project & Repository 🚀 | Stars ⭐ | Primary Tech Stack 🛠️ | Description & Behavioral Health Fit 💡 | License 📜 |
+| Project & Repository 🚀 | GitHub_Stars ⭐ | Primary Tech Stack 🛠️ | Description & Behavioral Health Fit 💡 | License 📜 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL | Modular enterprise ERP with community health modules, patient record management, appointment scheduling, and clinic accounting. | LGPL-3.0 |
 | **[ERPNext Healthcare](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Python, Frappe Framework, Vue.js | Turnkey clinic ERP integrating patient encounters, therapy appointments, e-Prescriptions, and billing with core HR and accounting. | GPL-3.0 |
